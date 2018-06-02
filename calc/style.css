@@ -1,0 +1,86 @@
+body
+{
+    background: whitesmoke;
+}
+tr
+{
+    height: 16% !important;
+}
+td
+{
+    width:25%;
+    height: 16%;
+}
+button
+{
+    width:100%;
+    height:100%;
+    border-radius: 10px;
+    border-color: yellow;
+    background: #000000;
+    color: yellow;
+}
+.clear
+{
+    background: orangered;
+}
+.res
+{
+    background: #02b23a;
+}
+.tab
+{
+    background: #292829;
+    width:365px;
+    padding: 10px;
+    border: 3px solid yellow;
+}
+table
+{
+    padding: 10px;
+    background: #708090;
+    border: 3px solid #fff400;
+    width: 100%;
+    height: 100%;
+}
+.caltit
+{
+    color: yellow;
+    font-size: 20px;
+}
+input
+{
+    background: #272727;
+    border-color: black;
+    height: 100%;
+    width: 100%;
+    font-size: 20px;
+    color: yellow;
+    text-align: right;
+    padding: 3px;
+}
+
+#calc
+{
+    position:relative;
+    text-align: center;
+    height: 300px;
+    width: 600px;
+    left: 35%;
+}
+.message
+{
+    margin-top: 5%;
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Arial Black"
+}
+.title
+{
+    position: relative;
+    text-align: center;
+    margin: 10px;
+    font-size: 30px;
+    font-family: "Arial Black";
+}

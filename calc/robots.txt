@@ -1,0 +1,1 @@
+AHTUNG! Do not forget to hide test.php and flag.php AHTUNG!
